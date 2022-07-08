@@ -33,6 +33,7 @@ I'm a **french developer** :fr:, web maintly but touches everything, servers, bo
 #### 🍃 — Follow me on the networks to be aware of what I'm doing
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/djlucase?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/djlucase) [![Follow me on Github](https://img.shields.io/github/followers/lucas-luchack?color=black&label=follow%20me&logo=Github&style=for-the-badge)](https://github.com/lucas-luchack/)
+[![Discord](https://lanyard.cnrad.dev/api/302921557255258132)](https://discord.com/users/302921557255258132?theme=dark&animated=true&idleMessage=Ne%20fait%20rien.)
 
 #### ⚙️ — Statistics
 
