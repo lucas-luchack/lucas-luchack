@@ -38,4 +38,10 @@ I'm a **french developer** :fr:, web maintly but touches everything, servers, bo
 
 #### ⚙️ — Statistics
 
-[![Statistiques](https://github-readme-stats.vercel.app/api?username=lucas-luchack&show_icons=true&hide_border=true&count_private=true&theme=monokai)](https://luchack.valbion.com/)
+![Statistiques](https://github-readme-stats.vercel.app/api?username=lucas-luchack&show_icons=true&hide_border=true&count_private=true&theme=monokai)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucas-luchack&theme=monokai&hide_border=true)<br/>
+<div align="center" style="padding: 0px">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-luchack&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+ <br/>
+ <img title="Views counter" src="https://profile-counter.glitch.me/lucas-luchack/count.svg" />
+</div>
