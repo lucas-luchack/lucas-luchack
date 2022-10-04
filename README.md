@@ -1,6 +1,7 @@
+![Profil banner](https://github-widgetbox.vercel.app/api/profile?username=lucas-luchack&data=followers,repositories,stars,commits)
 ### Hello, I'm [Lucas](https://luchack.valbion.com)! 
 
-I'm a **french developer** :fr:, web maintly but touches everything, servers, bots, events, and more. ☕
+I'm a **french developer** <img src="https://img.icons8.com/color/1048/france-circular.png" width="16"/>, web maintly but touches everything, servers, bots, events, and more. ☕
 
 
 #### ✉ — For contact
@@ -14,21 +15,8 @@ I'm a **french developer** :fr:, web maintly but touches everything, servers, bo
 - [🔧 Valbion](https://valbion.com) • The name I work under. And, in quotes, my "company".
 
 #### 🛠 — Skills
- 
-<div align="">  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="35" />  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="35" />
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="35" />  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="35" />  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="35" /> 
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35" />  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="35" />
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="35" />  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" />  
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" />
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" height="35" />
- <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="35" />  
-</div>  
+
+![Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,css,html,js,nodejs,java,vue,vite,mysql,postgres,python,laravel,nuxtjs,git,github,markdown,php,figma,linux,raspberrypi,vscode&theme=dark)
 
 #### 🍃 — Follow me on the networks to be aware of what I'm doing
 
