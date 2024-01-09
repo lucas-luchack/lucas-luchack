@@ -16,7 +16,7 @@ I'm a **french developer** <img src="https://img.icons8.com/color/1048/france-ci
 
 #### 🛠 — Skills
 
-![Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,css,html,js,nodejs,java,vue,vite,mysql,postgres,python,laravel,nuxtjs,git,github,markdown,php,figma,linux,raspberrypi,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,materialui,css,html,js,ts,nodejs,java,vue,vite,mysql,postgres,python,laravel,nuxtjs,react,adonis,astro,git,github,markdown,php,figma,linux,raspberrypi,vscode&theme=dark)
 
 #### 🍃 — Follow me on the networks to be aware of what I'm doing
 
